@@ -1,7 +1,7 @@
 mysqlclient
-SQLAlchemy==2.0.21
-mysql.connector==2.2.9
-mysql-connector-python==4.21.12
+SQLAlchemy
+mysql.connector
+mysql-connector-python
 pymysql==1.1.0
 boto3==1.28.75
 matplotlib==3.8.1
