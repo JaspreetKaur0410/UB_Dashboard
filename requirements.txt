@@ -2,9 +2,9 @@ mysqlclient
 SQLAlchemy
 mysql.connector
 mysql-connector-python
-pymysql==1.1.0
-boto3==1.28.75
-matplotlib==3.8.1
-pandas==2.1.1
-numpy==1.26.1
-altair==5.1.2
+pymysql
+boto3
+matplotlib
+pandas
+numpy
+altair
