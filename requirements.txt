@@ -1,4 +1,4 @@
-mysqlclient==10.4.10-MariaDB
+mysqlclient
 SQLAlchemy==2.0.21
 mysql.connector==2.2.9
 mysql-connector-python==4.21.12
