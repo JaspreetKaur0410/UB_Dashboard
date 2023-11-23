@@ -1,7 +1,7 @@
 from query import *
 from main import *
 
-st.set_page_config(page_title="UB-Beauty", layout='wide')
+# st.set_page_config(page_title="UB-Beauty", layout='wide')
 
 col_get_top_cleanser_dry_skin,col_get_top_cleanser_dry_skin_fig=st.columns(2)
 col_get_top_cleanser_oily_skin,col_get_top_cleanser_oily_skin_fig=st.columns(2)

@@ -1,9 +1,9 @@
 from query import *
 from main import *
 
-st.set_page_config(page_title="UB-Beauty", layout='wide')
-st.set_option('deprecation.showPyplotGlobalUse', False)
-st.sidebar.header("UB Beauty")
+# st.set_page_config(page_title="UB-Beauty", layout='wide')
+# st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.sidebar.header("UB Beauty")
 
 col_get_fav_cleanser,col_get_fav_cleanser_fig=st.columns(2)
 col_get_fav_most,col_get_fav_most_fig=st.columns(2)

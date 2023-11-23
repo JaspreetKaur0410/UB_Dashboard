@@ -2,8 +2,8 @@ from query import *
 from main import *
 
 # st.set_page_config(page_title="UB-Beauty", layout='wide')
-st.set_option('deprecation.showPyplotGlobalUse', False)
-st.sidebar.header("UB Beauty")
+# st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.sidebar.header("UB Beauty")
 
 
 #################################### start QUERY skintype vs age ######################################################
