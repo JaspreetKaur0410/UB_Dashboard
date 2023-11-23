@@ -1,7 +1,6 @@
-mysqlclient==10.4.10-MariaDB
-SQLAlchemy==2.0.21
-mysql.connector==2.2.9
-mysql-connector-python==4.21.12
+mysqlclient
+SQLAlchemy==2.0.22
+mysql-connector-python==8.1.0
 pymysql==1.1.0
 boto3==1.28.75
 matplotlib==3.8.1
